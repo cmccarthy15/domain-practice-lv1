@@ -28,15 +28,3 @@ Make sure that you include...
 ## Next Steps
 Now to `DiagramPlan.md`. In this file you'll see one way you could have drawn this out. Check against what your group drew; where there elements in the solution you didnt cover? Anything that is unclear? 
 
-now...
-
-
-now to `solution_class_basics.rb`
-
-Got here pretty confidently? Excellent! Now you have time to get into more logical behavior. 
-Go back to all_classes and add....
-- a 
-- b
-- c 
-
-
