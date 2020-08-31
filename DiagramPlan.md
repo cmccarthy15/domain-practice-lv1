@@ -4,6 +4,7 @@
 In this file you'll see one way you could have drawn this out. Some of our methods might be called different things; that's fine! Check against what your group drew; where there elements in the solution you didnt cover? Anything that is unclear? 
 
 ![ERD_example](erd_example.png)
+typo above: AnimalToxin class method should be AnimalToxin.all
 
 ## Your Instructions
 Inside of `all_classes.rb`, write the basics of each class. You are essentially converting your plan from the first part into code! This should include...
